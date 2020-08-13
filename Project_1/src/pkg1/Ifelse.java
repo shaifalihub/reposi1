@@ -7,7 +7,7 @@ public class Ifelse {
 	public void check(int i)
 	{
 	
-		if(i%2==0) {
+		if(i%6==0) {
 			System.out.println("even number");
 		}
 			else
